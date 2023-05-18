@@ -1,14 +1,14 @@
 @charset "UTF-8"; 
 
 body {
-  background-color: gray;
+  background-color: rgb(255, 199, 138);
 }
  
 #wrap {
   width: 960px;
   margin: auto;
   background-color: white;
-  border: 10px dashed black;
+  border: 10px dashed rgb(255, 106, 0);
   padding: 20px;
 }
  
